@@ -1,1205 +1,605 @@
 {
-  "title": "Title 15 \u2013 Land Use",
+  "title": "Title 15 - Land Use",
   "file": "title_15_land_use.html",
   "sections": [
     {
-      "id": "15_1_04_010",
+      "id": "15_01_04_010",
       "label": "15.1.04.010 Rules Of Construction"
     },
     {
-      "id": "15_1_04_020",
+      "id": "15_01_04_020",
       "label": "15.1.04.020 Definitions"
     },
     {
-      "id": "15_1_04_030",
+      "id": "15_01_04_030",
       "label": "15.1.04.030 Compliance And Enforcement"
     },
     {
-      "id": "15_1_04_040",
+      "id": "15_01_04_040",
       "label": "15.1.04.040 Notices"
     },
     {
-      "id": "15_1_04_050",
+      "id": "15_01_04_050",
       "label": "15.1.04.050 Appeal Process"
     },
     {
-      "id": "15_1_04_060",
+      "id": "15_01_04_060",
       "label": "15.1.04.060 Appeal Authority"
     },
     {
-      "id": "15_1_04_070",
+      "id": "15_01_04_070",
       "label": "15.1.04.070 Fees"
     },
     {
-      "id": "15_1_04_080",
+      "id": "15_01_04_080",
       "label": "15.1.04.080 Severability"
     },
     {
-      "id": "15_1_04_090",
+      "id": "15_01_04_090",
       "label": "15.1.04.090 Licensed Contractor"
     },
     {
-      "id": "15_1_04_010",
-      "label": "15.1.04.010 Rules Of Construction"
-    },
-    {
-      "id": "15_1_04_020",
-      "label": "15.1.04.020 Definitions"
-    },
-    {
-      "id": "15_1_04_030",
-      "label": "15.1.04.030 Compliance And Enforcement"
-    },
-    {
-      "id": "15_1_04_040",
-      "label": "15.1.04.040 Notices"
-    },
-    {
-      "id": "15_1_04_050",
-      "label": "15.1.04.050 Appeal Process"
-    },
-    {
-      "id": "15_1_04_060",
-      "label": "15.1.04.060 Appeal Authority"
-    },
-    {
-      "id": "15_1_04_070",
-      "label": "15.1.04.070 Fees"
-    },
-    {
-      "id": "15_1_04_080",
-      "label": "15.1.04.080 Severability"
-    },
-    {
-      "id": "15_1_04_090",
-      "label": "15.1.04.090 Licensed Contractor"
-    },
-    {
-      "id": "15_2_04_010",
+      "id": "15_02_04_010",
       "label": "15.2.04.010 Authority And Creation"
     },
     {
-      "id": "15_2_04_020",
+      "id": "15_02_04_020",
       "label": "15.2.04.020 Purpose"
     },
     {
-      "id": "15_2_04_030",
+      "id": "15_02_04_030",
       "label": "15.2.04.030 Amendments To The General Plan - Text And Maps"
     },
     {
-      "id": "15_2_04_040",
+      "id": "15_02_04_040",
       "label": "15.2.04.040 Hearings"
     },
     {
-      "id": "15_2_04_010",
-      "label": "15.2.04.010 Authority And Creation"
-    },
-    {
-      "id": "15_2_04_020",
-      "label": "15.2.04.020 Purpose"
-    },
-    {
-      "id": "15_2_04_030",
-      "label": "15.2.04.030 Amendments To The General Plan - Text And Maps"
-    },
-    {
-      "id": "15_2_04_040",
-      "label": "15.2.04.040 Hearings"
-    },
-    {
-      "id": "15_3_04_010",
+      "id": "15_03_04_010",
       "label": "15.3.04.010 Title"
     },
     {
-      "id": "15_3_04_020",
+      "id": "15_03_04_020",
       "label": "15.3.04.020 Authority And Purpose"
     },
     {
-      "id": "15_3_04_030",
+      "id": "15_03_04_030",
       "label": "15.3.04.030 Noncomplying Structures, Nonconforming Uses, And Lots"
     },
     {
-      "id": "15_3_04_010",
-      "label": "15.3.04.010 Title"
-    },
-    {
-      "id": "15_3_04_020",
-      "label": "15.3.04.020 Authority And Purpose"
-    },
-    {
-      "id": "15_3_04_030",
-      "label": "15.3.04.030 Noncomplying Structures, Nonconforming Uses, And Lots"
-    },
-    {
-      "id": "15_3_08_010",
+      "id": "15_03_08_010",
       "label": "15.3.08.010 Administrative Bodies And Officers"
     },
     {
-      "id": "15_3_08_020",
+      "id": "15_03_08_020",
       "label": "15.3.08.020 Interpretations And Administrative Review"
     },
     {
-      "id": "15_3_08_030",
+      "id": "15_03_08_030",
       "label": "15.3.08.030 Annexations"
     },
     {
-      "id": "15_3_08_040",
+      "id": "15_03_08_040",
       "label": "15.3.08.040 Variance And Appeals"
     },
     {
-      "id": "15_3_08_050",
+      "id": "15_03_08_050",
       "label": "15.3.08.050 Amendments To The Zoning Ordinance - Text And Maps"
     },
     {
-      "id": "15_3_08_060",
+      "id": "15_03_08_060",
       "label": "15.3.08.060 Conditional Use Permits"
     },
     {
-      "id": "15_3_08_010",
-      "label": "15.3.08.010 Administrative Bodies And Officers"
-    },
-    {
-      "id": "15_3_08_020",
-      "label": "15.3.08.020 Interpretations And Administrative Review"
-    },
-    {
-      "id": "15_3_08_030",
-      "label": "15.3.08.030 Annexations"
-    },
-    {
-      "id": "15_3_08_040",
-      "label": "15.3.08.040 Variance And Appeals"
-    },
-    {
-      "id": "15_3_08_050",
-      "label": "15.3.08.050 Amendments To The Zoning Ordinance - Text And Maps"
-    },
-    {
-      "id": "15_3_08_060",
-      "label": "15.3.08.060 Conditional Use Permits"
-    },
-    {
-      "id": "15_3_12_010",
+      "id": "15_03_12_010",
       "label": "15.3.12.010 Zoning Map"
     },
     {
-      "id": "15_3_12_020",
+      "id": "15_03_12_020",
       "label": "15.3.12.020 District Boundaries"
     },
     {
-      "id": "15_3_12_030",
+      "id": "15_03_12_030",
       "label": "15.3.12.030 Districts Established"
     },
     {
-      "id": "15_3_12_010",
-      "label": "15.3.12.010 Zoning Map"
-    },
-    {
-      "id": "15_3_12_020",
-      "label": "15.3.12.020 District Boundaries"
-    },
-    {
-      "id": "15_3_12_030",
-      "label": "15.3.12.030 Districts Established"
-    },
-    {
-      "id": "15_3_16_010",
+      "id": "15_03_16_010",
       "label": "15.3.16.010 Agricultural And Rural Residential Districts"
     },
     {
-      "id": "15_3_16_020",
+      "id": "15_03_16_020",
       "label": "15.3.16.020 Residential Districts"
     },
     {
-      "id": "15_3_16_030",
+      "id": "15_03_16_030",
       "label": "15.3.16.030 R-3 Residential District"
     },
     {
-      "id": "15_3_16_032",
+      "id": "15_03_16_032",
       "label": "15.3.16.032 R-4 Residential District"
     },
     {
-      "id": "15_3_16_033",
+      "id": "15_03_16_033",
       "label": "15.3.16.033 R-5 Residential District"
     },
     {
-      "id": "15_3_16_035",
+      "id": "15_03_16_035",
       "label": "15.3.16.035 Changed To 15.3.20.090"
     },
     {
-      "id": "15_3_16_040",
+      "id": "15_03_16_040",
       "label": "15.3.16.040 R-O Residential Office"
     },
     {
-      "id": "15_3_16_050",
+      "id": "15_03_16_050",
       "label": "15.3.16.050 C-O Commercial Office"
     },
     {
-      "id": "15_3_16_060",
+      "id": "15_03_16_060",
       "label": "15.3.16.060 C-D Downtown Commercial"
     },
     {
-      "id": "15_3_16_070",
+      "id": "15_03_16_070",
       "label": "15.3.16.070 C-1 Neighborhood Commercial"
     },
     {
-      "id": "15_3_16_080",
+      "id": "15_03_16_080",
       "label": "15.3.16.080 C-2 General Commercial"
     },
     {
-      "id": "15_3_16_090",
+      "id": "15_03_16_090",
       "label": "15.3.16.090 S-C Shopping Center"
     },
     {
-      "id": "15_3_16_100",
+      "id": "15_03_16_100",
       "label": "15.3.16.100 C-UV Urban Village Commercial"
     },
     {
-      "id": "15_3_16_110",
+      "id": "15_03_16_110",
       "label": "15.3.16.110 B-P Business Park"
     },
     {
-      "id": "15_3_16_120",
+      "id": "15_03_16_120",
       "label": "15.3.16.120 I-1 Light Industrial"
     },
     {
-      "id": "15_3_16_130",
+      "id": "15_03_16_130",
       "label": "15.3.16.130 I-2 Medium Industrial"
     },
     {
-      "id": "15_3_16_140",
+      "id": "15_03_16_140",
       "label": "15.3.16.140 I-3 Heavy Industrial"
     },
     {
-      "id": "15_3_16_150",
+      "id": "15_03_16_150",
       "label": "15.3.16.150 (Reserved)"
     },
     {
-      "id": "15_3_16_160",
+      "id": "15_03_16_160",
       "label": "15.3.16.160 Public Facilities (P-F)"
     },
     {
-      "id": "15_3_16_170",
+      "id": "15_03_16_170",
       "label": "15.3.16.170 Development Standards"
     },
     {
-      "id": "15_3_16_010",
-      "label": "15.3.16.010 Agricultural And Rural Residential Districts"
-    },
-    {
-      "id": "15_3_16_020",
-      "label": "15.3.16.020 Residential Districts"
-    },
-    {
-      "id": "15_3_16_030",
-      "label": "15.3.16.030 R-3 Residential District"
-    },
-    {
-      "id": "15_3_16_032",
-      "label": "15.3.16.032 R-4 Residential District"
-    },
-    {
-      "id": "15_3_16_033",
-      "label": "15.3.16.033 R-5 Residential District"
-    },
-    {
-      "id": "15_3_16_035",
-      "label": "15.3.16.035 Changed To 15.3.20.090"
-    },
-    {
-      "id": "15_3_16_040",
-      "label": "15.3.16.040 R-O Residential Office"
-    },
-    {
-      "id": "15_3_16_050",
-      "label": "15.3.16.050 C-O Commercial Office"
-    },
-    {
-      "id": "15_3_16_060",
-      "label": "15.3.16.060 C-D Downtown Commercial"
-    },
-    {
-      "id": "15_3_16_070",
-      "label": "15.3.16.070 C-1 Neighborhood Commercial"
-    },
-    {
-      "id": "15_3_16_080",
-      "label": "15.3.16.080 C-2 General Commercial"
-    },
-    {
-      "id": "15_3_16_090",
-      "label": "15.3.16.090 S-C Shopping Center"
-    },
-    {
-      "id": "15_3_16_100",
-      "label": "15.3.16.100 C-UV Urban Village Commercial"
-    },
-    {
-      "id": "15_3_16_110",
-      "label": "15.3.16.110 B-P Business Park"
-    },
-    {
-      "id": "15_3_16_120",
-      "label": "15.3.16.120 I-1 Light Industrial"
-    },
-    {
-      "id": "15_3_16_130",
-      "label": "15.3.16.130 I-2 Medium Industrial"
-    },
-    {
-      "id": "15_3_16_140",
-      "label": "15.3.16.140 I-3 Heavy Industrial"
-    },
-    {
-      "id": "15_3_16_150",
-      "label": "15.3.16.150 (Reserved)"
-    },
-    {
-      "id": "15_3_16_160",
-      "label": "15.3.16.160 Public Facilities (P-F)"
-    },
-    {
-      "id": "15_3_16_170",
-      "label": "15.3.16.170 Development Standards"
-    },
-    {
-      "id": "15_3_20_010",
+      "id": "15_03_20_010",
       "label": "15.3.20.010 Airport Impact Overlay"
     },
     {
-      "id": "15_3_20_020",
+      "id": "15_03_20_020",
       "label": "15.3.20.020 Floodplain Hazard Overlay (Reserved)"
     },
     {
-      "id": "15_3_20_030",
+      "id": "15_03_20_030",
       "label": "15.3.20.030 Geologic Hazards Overlay (Reserved)"
     },
     {
-      "id": "15_3_20_040",
+      "id": "15_03_20_040",
       "label": "15.3.20.040 Surface Mining Overlay"
     },
     {
-      "id": "15_3_20_050",
+      "id": "15_03_20_050",
       "label": "15.3.20.050 Self Storage Overlay"
     },
     {
-      "id": "15_3_20_060",
+      "id": "15_03_20_060",
       "label": "15.3.20.060 Development Enhancement Overlay"
     },
     {
-      "id": "15_3_20_070",
+      "id": "15_03_20_070",
       "label": "15.3.20.070 Aggregate Transportation, Storage And Reclamation Overlay"
     },
     {
-      "id": "15_3_20_080",
+      "id": "15_03_20_080",
       "label": "15.3.20.080 Master Planned Development Overlay District"
     },
     {
-      "id": "15_3_20_090",
+      "id": "15_03_20_090",
       "label": "15.3.20.090 Infill Overlay Zone (I-F)"
     },
     {
-      "id": "15_3_20_100",
+      "id": "15_03_20_100",
       "label": "15.3.20.100 Complete Neighborhood Overlay District"
     },
     {
-      "id": "15_3_20_110",
+      "id": "15_03_20_110",
       "label": "15.3.20.110 Large Utility Facility Overlay District"
     },
     {
-      "id": "15_3_20_010",
-      "label": "15.3.20.010 Airport Impact Overlay"
-    },
-    {
-      "id": "15_3_20_020",
-      "label": "15.3.20.020 Floodplain Hazard Overlay (Reserved)"
-    },
-    {
-      "id": "15_3_20_030",
-      "label": "15.3.20.030 Geologic Hazards Overlay (Reserved)"
-    },
-    {
-      "id": "15_3_20_040",
-      "label": "15.3.20.040 Surface Mining Overlay"
-    },
-    {
-      "id": "15_3_20_050",
-      "label": "15.3.20.050 Self Storage Overlay"
-    },
-    {
-      "id": "15_3_20_060",
-      "label": "15.3.20.060 Development Enhancement Overlay"
-    },
-    {
-      "id": "15_3_20_070",
-      "label": "15.3.20.070 Aggregate Transportation, Storage And Reclamation Overlay"
-    },
-    {
-      "id": "15_3_20_080",
-      "label": "15.3.20.080 Master Planned Development Overlay District"
-    },
-    {
-      "id": "15_3_20_090",
-      "label": "15.3.20.090 Infill Overlay Zone (I-F)"
-    },
-    {
-      "id": "15_3_20_100",
-      "label": "15.3.20.100 Complete Neighborhood Overlay District"
-    },
-    {
-      "id": "15_3_20_110",
-      "label": "15.3.20.110 Large Utility Facility Overlay District"
-    },
-    {
-      "id": "15_3_24_010",
+      "id": "15_03_24_010",
       "label": "15.3.24.010 Treatment Facilities"
     },
     {
-      "id": "15_3_24_020",
+      "id": "15_03_24_020",
       "label": "15.3.24.020 Billboards"
     },
     {
-      "id": "15_3_24_030",
+      "id": "15_03_24_030",
       "label": "15.3.24.030 Repealed Master Planned Development"
     },
     {
-      "id": "15_3_24_040",
+      "id": "15_03_24_040",
       "label": "15.3.24.040 Manufactured Homes"
     },
     {
-      "id": "15_3_24_050",
+      "id": "15_03_24_050",
       "label": "15.3.24.050 Seasonal Sales And Special Events"
     },
     {
-      "id": "15_3_24_060",
+      "id": "15_03_24_060",
       "label": "15.3.24.060 Subdivision Model Home"
     },
     {
-      "id": "15_3_24_070",
+      "id": "15_03_24_070",
       "label": "15.3.24.070 Temporary Office Or Construction Trailers"
     },
     {
-      "id": "15_3_24_080",
+      "id": "15_03_24_080",
       "label": "15.3.24.080 Sexually Oriented Businesses"
     },
     {
-      "id": "15_3_24_090",
+      "id": "15_03_24_090",
       "label": "15.3.24.090 Supplementary Regulations"
     },
     {
-      "id": "15_3_24_010",
-      "label": "15.3.24.010 Treatment Facilities"
-    },
-    {
-      "id": "15_3_24_020",
-      "label": "15.3.24.020 Billboards"
-    },
-    {
-      "id": "15_3_24_030",
-      "label": "15.3.24.030 Repealed Master Planned Development"
-    },
-    {
-      "id": "15_3_24_040",
-      "label": "15.3.24.040 Manufactured Homes"
-    },
-    {
-      "id": "15_3_24_050",
-      "label": "15.3.24.050 Seasonal Sales And Special Events"
-    },
-    {
-      "id": "15_3_24_060",
-      "label": "15.3.24.060 Subdivision Model Home"
-    },
-    {
-      "id": "15_3_24_070",
-      "label": "15.3.24.070 Temporary Office Or Construction Trailers"
-    },
-    {
-      "id": "15_3_24_080",
-      "label": "15.3.24.080 Sexually Oriented Businesses"
-    },
-    {
-      "id": "15_3_24_090",
-      "label": "15.3.24.090 Supplementary Regulations"
-    },
-    {
-      "id": "15_3_28_010",
+      "id": "15_03_28_010",
       "label": "15.3.28.010 Definitions"
     },
     {
-      "id": "15_3_28_020",
+      "id": "15_03_28_020",
       "label": "15.3.28.020 Purpose"
     },
     {
-      "id": "15_3_28_030",
+      "id": "15_03_28_030",
       "label": "15.3.28.030 Proposal For Creation Of Agriculture Protection Area"
     },
     {
-      "id": "15_3_28_040",
+      "id": "15_03_28_040",
       "label": "15.3.28.040 Area Requirements"
     },
     {
-      "id": "15_3_28_050",
+      "id": "15_03_28_050",
       "label": "15.3.28.050 Notice Requirements"
     },
     {
-      "id": "15_3_28_060",
+      "id": "15_03_28_060",
       "label": "15.3.28.060 Review Of Proposal"
     },
     {
-      "id": "15_3_28_070",
+      "id": "15_03_28_070",
       "label": "15.3.28.070 Public Hearing"
     },
     {
-      "id": "15_3_28_080",
+      "id": "15_03_28_080",
       "label": "15.3.28.080 Evaluation Criteria"
     },
     {
-      "id": "15_3_28_090",
+      "id": "15_03_28_090",
       "label": "15.3.28.090 Adding Land To An Agriculture Protection Area"
     },
     {
-      "id": "15_3_28_100",
+      "id": "15_03_28_100",
       "label": "15.3.28.100 Removing Land From An Agriculture Protection Area"
     },
     {
-      "id": "15_3_28_110",
+      "id": "15_03_28_110",
       "label": "15.3.28.110 Review Of Agriculture Protection Areas"
     },
     {
-      "id": "15_3_28_120",
+      "id": "15_03_28_120",
       "label": "15.3.28.120 Benefits"
     },
     {
-      "id": "15_3_28_010",
-      "label": "15.3.28.010 Definitions"
-    },
-    {
-      "id": "15_3_28_020",
-      "label": "15.3.28.020 Purpose"
-    },
-    {
-      "id": "15_3_28_030",
-      "label": "15.3.28.030 Proposal For Creation Of Agriculture Protection Area"
-    },
-    {
-      "id": "15_3_28_040",
-      "label": "15.3.28.040 Area Requirements"
-    },
-    {
-      "id": "15_3_28_050",
-      "label": "15.3.28.050 Notice Requirements"
-    },
-    {
-      "id": "15_3_28_060",
-      "label": "15.3.28.060 Review Of Proposal"
-    },
-    {
-      "id": "15_3_28_070",
-      "label": "15.3.28.070 Public Hearing"
-    },
-    {
-      "id": "15_3_28_080",
-      "label": "15.3.28.080 Evaluation Criteria"
-    },
-    {
-      "id": "15_3_28_090",
-      "label": "15.3.28.090 Adding Land To An Agriculture Protection Area"
-    },
-    {
-      "id": "15_3_28_100",
-      "label": "15.3.28.100 Removing Land From An Agriculture Protection Area"
-    },
-    {
-      "id": "15_3_28_110",
-      "label": "15.3.28.110 Review Of Agriculture Protection Areas"
-    },
-    {
-      "id": "15_3_28_120",
-      "label": "15.3.28.120 Benefits"
-    },
-    {
-      "id": "15_4_04_010",
+      "id": "15_04_04_010",
       "label": "15.4.04.010 Sale Of Plats Or Parcels Prior To Approval And Recordation Prohibited"
     },
     {
-      "id": "15_4_04_020",
+      "id": "15_04_04_020",
       "label": "15.4.04.020 Approval Required"
     },
     {
-      "id": "15_4_04_030",
+      "id": "15_04_04_030",
       "label": "15.4.04.030 Endangering Health Or Property Prohibited"
     },
     {
-      "id": "15_4_04_040",
+      "id": "15_04_04_040",
       "label": "15.4.04.040 Amended Plats"
     },
     {
-      "id": "15_4_04_050",
+      "id": "15_04_04_050",
       "label": "15.4.04.050 Exceptions To Avoid Hardship"
     },
     {
-      "id": "15_4_04_060",
+      "id": "15_04_04_060",
       "label": "15.4.04.060 Filing Of Preliminary Plats"
     },
     {
-      "id": "15_4_04_070",
+      "id": "15_04_04_070",
       "label": "15.4.04.070 Form And Content Of Preliminary Plats"
     },
     {
-      "id": "15_4_04_080",
+      "id": "15_04_04_080",
       "label": "15.4.04.080 Approval Or Disapproval - Procedure"
     },
     {
-      "id": "15_4_04_090",
+      "id": "15_04_04_090",
       "label": "15.4.04.090 Duration Of Preliminary Approval"
     },
     {
-      "id": "15_4_04_100",
+      "id": "15_04_04_100",
       "label": "15.4.04.100 Filing Of Final Plats"
     },
     {
-      "id": "15_4_04_110",
+      "id": "15_04_04_110",
       "label": "15.4.04.110 Form And Contents Of Final Plats"
     },
     {
-      "id": "15_4_04_120",
+      "id": "15_04_04_120",
       "label": "15.4.04.120 Review And Approval Procedure Of Final Plats"
     },
     {
-      "id": "15_4_04_130",
+      "id": "15_04_04_130",
       "label": "15.4.04.130 Recordation - Copy To Be Supplied To City Engineer"
     },
     {
-      "id": "15_4_04_140",
+      "id": "15_04_04_140",
       "label": "15.4.04.140 Commencement/Completion Time Frame"
     },
     {
-      "id": "15_4_04_150",
+      "id": "15_04_04_150",
       "label": "15.4.04.150 Amendments To Final Plat"
     },
     {
-      "id": "15_4_04_160",
+      "id": "15_04_04_160",
       "label": "15.4.04.160 Building Permits"
     },
     {
-      "id": "15_4_04_170",
+      "id": "15_04_04_170",
       "label": "15.4.04.170 Appeals"
     },
     {
-      "id": "15_4_04_180",
+      "id": "15_04_04_180",
       "label": "15.4.04.180 Filing Of Minor Subdivision Plat"
     },
     {
-      "id": "15_4_04_190",
+      "id": "15_04_04_190",
       "label": "15.4.04.190 Form And Contents Of Minor Final Plats"
     },
     {
-      "id": "15_4_04_200",
+      "id": "15_04_04_200",
       "label": "15.4.04.200 Review And Approval Procedure Of Minor Final Plats"
     },
     {
-      "id": "15_4_04_210",
+      "id": "15_04_04_210",
       "label": "15.4.04.210 Recordation Of Minor Final Plats"
     },
     {
-      "id": "15_4_04_220",
+      "id": "15_04_04_220",
       "label": "15.4.04.220 Commencement/Completion Time Frame For Minor Final Plats"
     },
     {
-      "id": "15_4_04_230",
+      "id": "15_04_04_230",
       "label": "15.4.04.230 Amendments To Minor Final Plats"
     },
     {
-      "id": "15_4_04_240",
+      "id": "15_04_04_240",
       "label": "15.4.04.240 Building Permits For Minor Final Plats"
     },
     {
-      "id": "15_4_04_010",
-      "label": "15.4.04.010 Sale Of Plats Or Parcels Prior To Approval And Recordation Prohibited"
-    },
-    {
-      "id": "15_4_04_020",
-      "label": "15.4.04.020 Approval Required"
-    },
-    {
-      "id": "15_4_04_030",
-      "label": "15.4.04.030 Endangering Health Or Property Prohibited"
-    },
-    {
-      "id": "15_4_04_040",
-      "label": "15.4.04.040 Amended Plats"
-    },
-    {
-      "id": "15_4_04_050",
-      "label": "15.4.04.050 Exceptions To Avoid Hardship"
-    },
-    {
-      "id": "15_4_04_060",
-      "label": "15.4.04.060 Filing Of Preliminary Plats"
-    },
-    {
-      "id": "15_4_04_070",
-      "label": "15.4.04.070 Form And Content Of Preliminary Plats"
-    },
-    {
-      "id": "15_4_04_080",
-      "label": "15.4.04.080 Approval Or Disapproval - Procedure"
-    },
-    {
-      "id": "15_4_04_090",
-      "label": "15.4.04.090 Duration Of Preliminary Approval"
-    },
-    {
-      "id": "15_4_04_100",
-      "label": "15.4.04.100 Filing Of Final Plats"
-    },
-    {
-      "id": "15_4_04_110",
-      "label": "15.4.04.110 Form And Contents Of Final Plats"
-    },
-    {
-      "id": "15_4_04_120",
-      "label": "15.4.04.120 Review And Approval Procedure Of Final Plats"
-    },
-    {
-      "id": "15_4_04_130",
-      "label": "15.4.04.130 Recordation - Copy To Be Supplied To City Engineer"
-    },
-    {
-      "id": "15_4_04_140",
-      "label": "15.4.04.140 Commencement/Completion Time Frame"
-    },
-    {
-      "id": "15_4_04_150",
-      "label": "15.4.04.150 Amendments To Final Plat"
-    },
-    {
-      "id": "15_4_04_160",
-      "label": "15.4.04.160 Building Permits"
-    },
-    {
-      "id": "15_4_04_170",
-      "label": "15.4.04.170 Appeals"
-    },
-    {
-      "id": "15_4_04_180",
-      "label": "15.4.04.180 Filing Of Minor Subdivision Plat"
-    },
-    {
-      "id": "15_4_04_190",
-      "label": "15.4.04.190 Form And Contents Of Minor Final Plats"
-    },
-    {
-      "id": "15_4_04_200",
-      "label": "15.4.04.200 Review And Approval Procedure Of Minor Final Plats"
-    },
-    {
-      "id": "15_4_04_210",
-      "label": "15.4.04.210 Recordation Of Minor Final Plats"
-    },
-    {
-      "id": "15_4_04_220",
-      "label": "15.4.04.220 Commencement/Completion Time Frame For Minor Final Plats"
-    },
-    {
-      "id": "15_4_04_230",
-      "label": "15.4.04.230 Amendments To Minor Final Plats"
-    },
-    {
-      "id": "15_4_04_240",
-      "label": "15.4.04.240 Building Permits For Minor Final Plats"
-    },
-    {
-      "id": "15_4_08_010",
+      "id": "15_04_08_010",
       "label": "15.4.08.010 Purpose"
     },
     {
-      "id": "15_4_08_020",
+      "id": "15_04_08_020",
       "label": "15.4.08.020 Site Plan Required"
     },
     {
-      "id": "15_4_08_030",
+      "id": "15_04_08_030",
       "label": "15.4.08.030 Application And Review Process"
     },
     {
-      "id": "15_4_08_040",
+      "id": "15_04_08_040",
       "label": "15.4.08.040 Approval Or Disapproval - Procedure"
     },
     {
-      "id": "15_4_08_050",
+      "id": "15_04_08_050",
       "label": "15.4.08.050 Duration Of Approval"
     },
     {
-      "id": "15_4_08_060",
+      "id": "15_04_08_060",
       "label": "15.4.08.060 Amendments To Site Plan"
     },
     {
-      "id": "15_4_08_070",
+      "id": "15_04_08_070",
       "label": "15.4.08.070 Appeals"
     },
     {
-      "id": "15_4_08_010",
-      "label": "15.4.08.010 Purpose"
-    },
-    {
-      "id": "15_4_08_020",
-      "label": "15.4.08.020 Site Plan Required"
-    },
-    {
-      "id": "15_4_08_030",
-      "label": "15.4.08.030 Application And Review Process"
-    },
-    {
-      "id": "15_4_08_040",
-      "label": "15.4.08.040 Approval Or Disapproval - Procedure"
-    },
-    {
-      "id": "15_4_08_050",
-      "label": "15.4.08.050 Duration Of Approval"
-    },
-    {
-      "id": "15_4_08_060",
-      "label": "15.4.08.060 Amendments To Site Plan"
-    },
-    {
-      "id": "15_4_08_070",
-      "label": "15.4.08.070 Appeals"
-    },
-    {
-      "id": "15_4_12_010",
+      "id": "15_04_12_010",
       "label": "15.4.12.010 Impact Fees, Authorization"
     },
     {
-      "id": "15_4_12_020",
+      "id": "15_04_12_020",
       "label": "15.4.12.020 Purpose Of Impact Fees, Limitations"
     },
     {
-      "id": "15_4_12_030",
+      "id": "15_04_12_030",
       "label": "15.4.12.030 Determination"
     },
     {
-      "id": "15_4_12_040",
+      "id": "15_04_12_040",
       "label": "15.4.12.040 Method Of Assessing"
     },
     {
-      "id": "15_4_12_050",
+      "id": "15_04_12_050",
       "label": "15.4.12.050 Special Exceptions"
     },
     {
-      "id": "15_4_12_060",
+      "id": "15_04_12_060",
       "label": "15.4.12.060 Existing Structures"
     },
     {
-      "id": "15_4_12_070",
+      "id": "15_04_12_070",
       "label": "15.4.12.070 Reimbursable Projects"
     },
     {
-      "id": "15_4_12_010",
-      "label": "15.4.12.010 Impact Fees, Authorization"
-    },
-    {
-      "id": "15_4_12_020",
-      "label": "15.4.12.020 Purpose Of Impact Fees, Limitations"
-    },
-    {
-      "id": "15_4_12_030",
-      "label": "15.4.12.030 Determination"
-    },
-    {
-      "id": "15_4_12_040",
-      "label": "15.4.12.040 Method Of Assessing"
-    },
-    {
-      "id": "15_4_12_050",
-      "label": "15.4.12.050 Special Exceptions"
-    },
-    {
-      "id": "15_4_12_060",
-      "label": "15.4.12.060 Existing Structures"
-    },
-    {
-      "id": "15_4_12_070",
-      "label": "15.4.12.070 Reimbursable Projects"
-    },
-    {
-      "id": "15_4_16_010",
+      "id": "15_04_16_010",
       "label": "15.4.16.010 Availability Of Adequate Public Facilities"
     },
     {
-      "id": "15_4_16_020",
+      "id": "15_04_16_020",
       "label": "15.4.16.020 Unavailability Of Adequate Public Facilities"
     },
     {
-      "id": "15_4_16_030",
+      "id": "15_04_16_030",
       "label": "15.4.16.030 Improvement Installations"
     },
     {
-      "id": "15_4_16_040",
+      "id": "15_04_16_040",
       "label": "15.4.16.040 Fees"
     },
     {
-      "id": "15_4_16_050",
+      "id": "15_04_16_050",
       "label": "15.4.16.050 Utility Connection"
     },
     {
-      "id": "15_4_16_060",
+      "id": "15_04_16_060",
       "label": "15.4.16.060 Sewage Facilities"
     },
     {
-      "id": "15_4_16_070",
+      "id": "15_04_16_070",
       "label": "15.4.16.070 Foundation Drains"
     },
     {
-      "id": "15_4_16_080",
+      "id": "15_04_16_080",
       "label": "15.4.16.080 Water Transfer"
     },
     {
-      "id": "15_4_16_085",
+      "id": "15_04_16_085",
       "label": "15.4.16.085 Street Improvements"
     },
     {
-      "id": "15_4_16_090",
+      "id": "15_04_16_090",
       "label": "15.4.16.090 Time Limitation For Completion"
     },
     {
-      "id": "15_4_16_100",
+      "id": "15_04_16_100",
       "label": "15.4.16.100 Conflict Of Interest"
     },
     {
-      "id": "15_4_16_110",
+      "id": "15_04_16_110",
       "label": "15.4.16.110 Security For Improvements Required"
     },
     {
-      "id": "15_4_16_120",
+      "id": "15_04_16_120",
       "label": "15.4.16.120 Parking"
     },
     {
-      "id": "15_4_16_130",
+      "id": "15_04_16_130",
       "label": "15.4.16.130 Landscaping, Buffering Walls, And Fences"
     },
     {
-      "id": "15_4_16_140",
+      "id": "15_04_16_140",
       "label": "15.4.16.140 Solid Waste Receptacle Areas"
     },
     {
-      "id": "15_4_16_150",
+      "id": "15_04_16_150",
       "label": "15.4.16.150 Fencing And Clear Vision Area"
     },
     {
-      "id": "15_4_16_160",
+      "id": "15_04_16_160",
       "label": "15.4.16.160 Site Reclamation"
     },
     {
-      "id": "15_4_16_170",
+      "id": "15_04_16_170",
       "label": "15.4.16.170 Hillside Development"
     },
     {
-      "id": "15_4_16_180",
+      "id": "15_04_16_180",
       "label": "15.4.16.180 Neighborhood Mailboxes"
     },
     {
-      "id": "15_4_16_010",
-      "label": "15.4.16.010 Availability Of Adequate Public Facilities"
-    },
-    {
-      "id": "15_4_16_020",
-      "label": "15.4.16.020 Unavailability Of Adequate Public Facilities"
-    },
-    {
-      "id": "15_4_16_030",
-      "label": "15.4.16.030 Improvement Installations"
-    },
-    {
-      "id": "15_4_16_040",
-      "label": "15.4.16.040 Fees"
-    },
-    {
-      "id": "15_4_16_050",
-      "label": "15.4.16.050 Utility Connection"
-    },
-    {
-      "id": "15_4_16_060",
-      "label": "15.4.16.060 Sewage Facilities"
-    },
-    {
-      "id": "15_4_16_070",
-      "label": "15.4.16.070 Foundation Drains"
-    },
-    {
-      "id": "15_4_16_080",
-      "label": "15.4.16.080 Water Transfer"
-    },
-    {
-      "id": "15_4_16_085",
-      "label": "15.4.16.085 Street Improvements"
-    },
-    {
-      "id": "15_4_16_090",
-      "label": "15.4.16.090 Time Limitation For Completion"
-    },
-    {
-      "id": "15_4_16_100",
-      "label": "15.4.16.100 Conflict Of Interest"
-    },
-    {
-      "id": "15_4_16_110",
-      "label": "15.4.16.110 Security For Improvements Required"
-    },
-    {
-      "id": "15_4_16_120",
-      "label": "15.4.16.120 Parking"
-    },
-    {
-      "id": "15_4_16_130",
-      "label": "15.4.16.130 Landscaping, Buffering Walls, And Fences"
-    },
-    {
-      "id": "15_4_16_140",
-      "label": "15.4.16.140 Solid Waste Receptacle Areas"
-    },
-    {
-      "id": "15_4_16_150",
-      "label": "15.4.16.150 Fencing And Clear Vision Area"
-    },
-    {
-      "id": "15_4_16_160",
-      "label": "15.4.16.160 Site Reclamation"
-    },
-    {
-      "id": "15_4_16_170",
-      "label": "15.4.16.170 Hillside Development"
-    },
-    {
-      "id": "15_4_16_180",
-      "label": "15.4.16.180 Neighborhood Mailboxes"
-    },
-    {
-      "id": "15_4_20_010",
+      "id": "15_04_20_010",
       "label": "15.4.20.010 Statutory Authorization, Findings Of Fact, And Purpose And Methods"
     },
     {
-      "id": "15_4_20_020",
+      "id": "15_04_20_020",
       "label": "15.4.20.020 Definitions"
     },
     {
-      "id": "15_4_20_030",
+      "id": "15_04_20_030",
       "label": "15.4.20.030 General Provisions"
     },
     {
-      "id": "15_4_20_0400",
+      "id": "15_04_20_400",
       "label": "15.4.20.0400 Administration"
     },
     {
-      "id": "15_4_20_050",
+      "id": "15_04_20_050",
       "label": "15.4.20.050 Provisions For Flood Hazard Reduction"
     },
     {
-      "id": "15_4_20_010",
-      "label": "15.4.20.010 Statutory Authorization, Findings Of Fact, And Purpose And Methods"
-    },
-    {
-      "id": "15_4_20_020",
-      "label": "15.4.20.020 Definitions"
-    },
-    {
-      "id": "15_4_20_030",
-      "label": "15.4.20.030 General Provisions"
-    },
-    {
-      "id": "15_4_20_0400",
-      "label": "15.4.20.0400 Administration"
-    },
-    {
-      "id": "15_4_20_050",
-      "label": "15.4.20.050 Provisions For Flood Hazard Reduction"
-    },
-    {
-      "id": "15_4_24_010",
+      "id": "15_04_24_010",
       "label": "15.4.24.010 Inspections And Enforcement"
     },
     {
-      "id": "15_4_24_020",
+      "id": "15_04_24_020",
       "label": "15.4.24.020 Phase I Environmental Site Assessments"
     },
     {
-      "id": "15_4_24_030",
+      "id": "15_04_24_030",
       "label": "15.4.24.030 National Environmental Policy Act (NEPA)"
     },
     {
-      "id": "15_4_24_040",
+      "id": "15_04_24_040",
       "label": "15.4.24.040 Phase I ESA Oversight"
     },
     {
-      "id": "15_4_24_050",
+      "id": "15_04_24_050",
       "label": "15.4.24.050 Phase II Environmental Site Investigations"
     },
     {
-      "id": "15_4_24_060",
+      "id": "15_04_24_060",
       "label": "15.4.24.060 Constituents Of Concern"
     },
     {
-      "id": "15_4_24_070",
+      "id": "15_04_24_070",
       "label": "15.4.24.070 Phases II ESI Oversight"
     },
     {
-      "id": "15_4_24_080",
+      "id": "15_04_24_080",
       "label": "15.4.24.080 Contaminant Release Reporting"
     },
     {
-      "id": "15_4_24_090",
+      "id": "15_04_24_090",
       "label": "15.4.24.090 Remediation And Mitigation"
     },
     {
-      "id": "15_4_24_100",
+      "id": "15_04_24_100",
       "label": "15.4.24.100 Remediation And Mitigation Oversight"
     },
     {
-      "id": "15_4_24_110",
-      "label": "15.4.24.110 Fees, Costs, Financial Assurance, Responsible Party"
-    },
-    {
-      "id": "15_4_24_010",
-      "label": "15.4.24.010 Inspections And Enforcement"
-    },
-    {
-      "id": "15_4_24_020",
-      "label": "15.4.24.020 Phase I Environmental Site Assessments"
-    },
-    {
-      "id": "15_4_24_030",
-      "label": "15.4.24.030 National Environmental Policy Act (NEPA)"
-    },
-    {
-      "id": "15_4_24_040",
-      "label": "15.4.24.040 Phase I ESA Oversight"
-    },
-    {
-      "id": "15_4_24_050",
-      "label": "15.4.24.050 Phase II Environmental Site Investigations"
-    },
-    {
-      "id": "15_4_24_060",
-      "label": "15.4.24.060 Constituents Of Concern"
-    },
-    {
-      "id": "15_4_24_070",
-      "label": "15.4.24.070 Phases II ESI Oversight"
-    },
-    {
-      "id": "15_4_24_080",
-      "label": "15.4.24.080 Contaminant Release Reporting"
-    },
-    {
-      "id": "15_4_24_090",
-      "label": "15.4.24.090 Remediation And Mitigation"
-    },
-    {
-      "id": "15_4_24_100",
-      "label": "15.4.24.100 Remediation And Mitigation Oversight"
-    },
-    {
-      "id": "15_4_24_110",
+      "id": "15_04_24_110",
       "label": "15.4.24.110 Fees, Costs, Financial Assurance, Responsible Party"
     }
   ]
