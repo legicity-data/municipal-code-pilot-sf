@@ -30,6 +30,7 @@ All are structured consistently and made crawlable by AI tools, Google Search, a
 
 ### Purpose
 These files define the canonical structure for municipal code data so parsing, validation, and AI Q&A can be consistent and citation-safe.
+HTML and TXT files are derived artifacts; canonical structure lives in schema-validated JSON.
 
 ## 📄 Titles 1–15
 
