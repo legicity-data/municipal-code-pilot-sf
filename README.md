@@ -22,6 +22,15 @@ All are structured consistently and made crawlable by AI tools, Google Search, a
 
 ---
 
+## Schema & Canonical Data
+
+- **Schema (v1.1):** `schemas/municipal_code_v1_1.schema.json`
+- **Schema rules:** `docs/SCHEMA_RULES_v1_1.md`
+- **Title 15 canonical stub:** `data/title_15_canonical_stub.json`
+
+### Purpose
+These files define the canonical structure for municipal code data so parsing, validation, and AI Q&A can be consistent and citation-safe.
+
 ## 📄 Titles 1–15
 
 Accessible from the root `index.html` file:
