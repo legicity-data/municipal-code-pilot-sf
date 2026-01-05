@@ -5,6 +5,27 @@ This repository contains **Titles 1 through 15** of the official Spanish Fork Mu
 
 ---
 
+## ⚠️ Legicity Pilot Context (Important)
+
+In addition to serving as a structured public archive of the Spanish Fork Municipal Code,
+this repository also functions as the **reference pilot implementation** for the
+**Legicity municipal code structuring and diagnostics pipeline**.
+
+This means the repository intentionally includes:
+
+- Pipeline artifacts (e.g., `/normalized/`, `/diagnostics/`, `/runs/`)
+- Partial or evolving datasets
+- Structural diagnostics and capture backlogs
+- Experimental but contract-governed files used to validate Legicity’s methodology
+
+These materials are **not errors** and are **not intended to be a polished public product**.
+They exist to test, refine, and prove the Legicity pipeline against a real municipal code.
+
+Public-facing HTML and TXT files remain authoritative representations of the adopted code.
+Pipeline artifacts support analysis, diagnostics, and future modernization efforts.
+
+---
+
 ## ✅ AI-Optimized Structure
 
 Each Title includes:
@@ -131,3 +152,5 @@ Ideal for bots, AI tools, and developers needing flat-text access.
 For questions, feedback, or contributions, please contact:
 
 David Mann ([dmann@spanishfork.gov](mailto:dmann@spanishfork.gov))
+
+Note: This repository also supports internal evaluation and diagnostics work under the Legicity project.
